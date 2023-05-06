@@ -11,6 +11,9 @@
 [Intro to Grasshopper](https://medium.com/generative-design/computational-design-in-grasshopper-1a0b62963690)  
 [ArcGis in Rhino](https://github.com/nicoazel/arcrhino)  
 [ViaLab GIS tutorial](https://vialab.mit.edu/tutorials/module/gis-to-rhino/)  
+[Convert Lat-Long to Point in rhino](https://discourse.mcneel.com/t/lat-lon-to-rhino-xyz-also-digimaps/120681/5)  
+[Convert Lat-Long to Point in rhino](https://www.grasshopper3d.com/group/elk/forum/topics/convert-lat-lon-to-a-point)  
+[Convert Lat-Long to Point (StackOverflow)](https://stackoverflow.com/questions/1369512/converting-longitude-latitude-to-x-y-on-a-map-with-calibration-points)  
 
 ## Python Resources
 
@@ -19,9 +22,14 @@
 [geospatial-data-python-geopandas-shapely](https://www.learndatasci.com/tutorials/geospatial-data-python-geopandas-shapely/)  
 [Pysal](https://pysal.org/pysal/)  
 
+## Data Population Statistics
+
+[Population Density (World in Data)](https://ourworldindata.org/grapher/population-density?tab=chart&country=~ITA)  
+[World Bank Population Data](https://data.worldbank.org/indicator/EN.POP.DNST?end=2020&locations=OE&start=2020&view=map)  
+
 ## CSharp Resources
 
-[](https://github.com/AliFlux/MapboxNet)  
+[MapBox.NET for WPF](https://github.com/AliFlux/MapboxNet)  
 
 ## Reference
 
